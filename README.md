@@ -1,0 +1,1 @@
+# lpc-generator-godot-plugin
