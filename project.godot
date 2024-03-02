@@ -25,7 +25,6 @@ project/assembly_name="Lpc-sprite-generator"
 
 [editor_plugins]
 
-disabled=PackedStringArray("res://addons/lpccharactergenerator/plugin.cfg")
 enabled=PackedStringArray("res://addons/lpccharactergenerator/plugin.cfg")
 
 [rendering]
